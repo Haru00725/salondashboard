@@ -1,7 +1,0 @@
-{"timestamp":"00:00:00.645","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:03:18.719","source":"Server","level":"LOG","message":"✓ Compiled in 545ms"}
-{"timestamp":"00:04:14.599","source":"Server","level":"LOG","message":"✓ Compiled in 30ms"}
-{"timestamp":"00:04:24.050","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
-{"timestamp":"00:05:41.965","source":"Server","level":"LOG","message":"✓ Compiled in 70ms"}
-{"timestamp":"00:10:35.213","source":"Server","level":"LOG","message":"✓ Compiled in 34ms"}
-{"timestamp":"00:12:25.159","source":"Server","level":"LOG","message":"✓ Compiled in 20ms"}
